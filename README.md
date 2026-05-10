@@ -1,5 +1,5 @@
 
-Basel III Compliance & FP&A Dashboard Demo  
+Basel III Compliance Dashboard Automation 
 
 Project Overview  
 This repository consolidates Basel III compliance across Capital Adequacy Ratio (CAR), Liquidity Coverage Ratio (LCR), and Leverage Ratio (LR) into a unified dashboard. It provides compliance and resilience flags under both baseline and stress conditions, with standardized Basel III codes (1–14) for traceability.  

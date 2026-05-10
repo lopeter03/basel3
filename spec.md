@@ -1,5 +1,5 @@
 
-# Basel III Project Specification  
+# Basel III Compliance Dashboard Automation - Project Specification  
 
 ## 📑 Scope  
 - **Capital Adequacy Ratio (CAR)** → Must be ≥ 8%  
